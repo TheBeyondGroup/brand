@@ -1,2 +1,2 @@
-import beyondConsole from "./index.js";
-beyondConsole();
+import beyondBranding from "./index.js";
+beyondBranding();

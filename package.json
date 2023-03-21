@@ -1,7 +1,7 @@
 {
-  "name": "@thebeyondgroup/beyond-console",
+  "name": "@thebeyondgroup/beyond-branding",
   "version": "1.0.0",
-  "description": "The Beyond Group developer tools console advertisement.",
+  "description": "The Beyond Group developer tools console branding.",
   "main": "src/index.js",
   "author": "The Beyond Group",
   "license": "MIT",
