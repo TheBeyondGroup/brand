@@ -15,4 +15,4 @@ import beyondBranding from '@thebeyondgroup/brand'
 beyondBranding()
 ```
 
-![Screenshot](../beyond-branding/assets/BeyondBrandScreenshot.png)
+![Screenshot](./assets/BeyondBrandScreenshot.png)
