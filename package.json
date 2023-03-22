@@ -16,6 +16,10 @@
   },
   "scripts": {
     "build": "rollup -c",
-    "dev": "nodemon src/dev.js"
+    "dev": "nodemon src/dev.js",
+    "serve": "vite serve ./src"
+  },
+  "dependencies": {
+    "vite": "^4.2.1"
   }
 }
