@@ -1,6 +1,6 @@
 {
   "name": "@thebeyondgroup/brand",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "The Beyond Group developer tools console branding.",
   "main": "./src/index.js",
   "author": "The Beyond Group",
